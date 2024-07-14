@@ -1,5 +1,5 @@
 # dotnet-response-caching
-Demonstração de diferentes estratégias de cache que podem ser implementadas com CQRS como por exemplo cache via Decorator Pattern ou Pipeline Behavior.
+Demonstração de diversas estratégias de cache que podem ser implementadas com CQRS, incluindo o uso de padrões como Decorator Pattern e Pipeline Behavior.
 
 # Como executar:
 - Clonar / baixar o repositório em seu workplace.
